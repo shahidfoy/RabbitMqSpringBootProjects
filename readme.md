@@ -1,7 +1,8 @@
 # RabbitMQ with Spring Boot
-Project One - Rabbitmq Basics
-Project Two - Rabbitmq Spring and Java Advanced
-Project Stream - Rabbitmq Stream with Spring Boot
+
+- Project One: Rabbitmq Basics
+- Project Two: Rabbitmq Spring and Java Advanced
+- Project Stream: Rabbitmq Stream with Spring Boot
 
 #### Add rabbitmq postman collection
 Within Postman add the following collection with the json file:
